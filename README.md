@@ -8,7 +8,7 @@ This image recognition project predicts the phase of the moon based off of an im
 
 
 
-Because of the location of the moon during specific times while each of its phases are present, I was not able to capture some images of some of the phases. Using images from the internet I am mixing the large amount of my images with some images of the other phases.
+
 
 
 
