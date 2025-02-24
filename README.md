@@ -23,9 +23,12 @@ This image recognition project predicts the phase of the moon based off of an im
 ![image](https://github.com/user-attachments/assets/5a4f55cc-5ca6-46b9-aadb-a01b8533016a)
 
 ### Predictions
-![image](https://github.com/user-attachments/assets/9f001197-2e5e-462a-bcda-629d12433be9)
+![image](https://github.com/user-attachments/assets/d736ff8c-bc24-4e4e-91bb-6355226fbca8)
 
-![image](https://github.com/user-attachments/assets/60312505-f7f9-4ab7-bf68-6c0f27cba4ef)
+![image](https://github.com/user-attachments/assets/157c225b-5bd0-4614-9295-7b99f19ecbc3)
+
+This project was a very fun experience for me, as it boasts the use data gathered on my own. Being able to take these images and not only predict on them, but augment them to create a better model produced excellent experience in both ends of the data analytics spectrum.
+
 
 
 
