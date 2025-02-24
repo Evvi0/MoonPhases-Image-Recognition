@@ -5,7 +5,27 @@ This image recognition project predicts the phase of the moon based off of an im
 <img src="https://cdn.discordapp.com/attachments/764894037093253121/1334240058730876981/IMG_4632.jpg?ex=67aaf8a2&is=67a9a722&hm=7522ee29b26cad003a610b6c4a6557bedee1bdc86d01f3e6ee13b4a1bb0d42dd&" alt="Alt Text" width="210" height="300">  <img src="https://cdn.discordapp.com/attachments/764894037093253121/1334239194452856852/IMG_7978.jpg?ex=67aaf7d4&is=67a9a654&hm=b2bf1474e12543f94f5b9c4a79a40f697fca63815ad3a1bde46cb8b6dd59c638&" alt="Alt Text" width="200" height="200"> <img src="https://cdn.discordapp.com/attachments/764894037093253121/1338565589404356781/IMG_6474.jpg?ex=67ab8bd9&is=67aa3a59&hm=537ddad375ddc0693cd615815d8b18db3cbc4f6813b909ccaab99b80b4c122c7&" alt="Alt Text" width="200" height="350"> <img src="https://cdn.discordapp.com/attachments/764894037093253121/1334239195463684158/IMG_7548.jpg?ex=67aaf7d5&is=67a9a655&hm=5590c94984d017400f4e3e9ee370cea3395bd1d6b40c9874db7f0a52fe4bbec4&" alt="Alt Text" width="200" height="350"> 
 
 
-Gathering my own images posed the challenge of having to correclty classify each image itself. Attached as an mp4 file is a video of me correclty classifying each image to use for correct model training to show the work and time taken.
+- Gathering my own images posed the challenge of having to correclty classify each image itself. Attached as an mp4 file is a video of me correclty classifying each image to use for correct model training to show the work and time taken.
+
+### Experimental Use of Data Augmentation
+- Before training, the use of data aumentation to edit images from the dataset helps to create a more robust and well-rounded model that can predict on images outside of the normal dataset.
+- The code below takes every image from the dataset and augments it to a out of focused or non-centered version of itself, and appends it back to the original dataset. 
+
+![image](https://github.com/user-attachments/assets/4c0513bb-2dfd-49f9-ba16-53a52a28618c)
+
+### Final count of images and augmented images
+
+![image](https://github.com/user-attachments/assets/f75c9578-2933-4dc8-ade4-1a7b84d7459f)
+
+### Creation of my own Convolutional Neural Network
+- 5 output neurons for the moon's phases.
+  
+![image](https://github.com/user-attachments/assets/5a4f55cc-5ca6-46b9-aadb-a01b8533016a)
+
+### Predictions
+![image](https://github.com/user-attachments/assets/9f001197-2e5e-462a-bcda-629d12433be9)
+
+![image](https://github.com/user-attachments/assets/60312505-f7f9-4ab7-bf68-6c0f27cba4ef)
 
 
 
