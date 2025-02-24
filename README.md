@@ -7,6 +7,9 @@ This image recognition project predicts the phase of the moon based off of an im
 
 - Gathering my own images posed the challenge of having to correclty classify each image itself. Attached as an mp4 file is a video of me correclty classifying each image to use for correct model training to show the work and time taken.
 
+
+
+
 ### Experimental Use of Data Augmentation
 - Before training, the use of data aumentation to edit images from the dataset helps to create a more robust and well-rounded model that can predict on images outside of the normal dataset.
 - The code below takes every image from the dataset and augments it to a out of focused or non-centered version of itself, and appends it back to the original dataset. 
@@ -27,7 +30,9 @@ This image recognition project predicts the phase of the moon based off of an im
 
 ![image](https://github.com/user-attachments/assets/157c225b-5bd0-4614-9295-7b99f19ecbc3)
 
-This project was a very fun experience for me, as it boasts the use data gathered on my own. Being able to take these images and not only predict on them, but augment them to create a better model produced excellent experience in both ends of the data analytics spectrum.
+### Final Thoughts
+
+- This project was a very fun experience for me, as it boasts the use data gathered on my own. Being able to take these images and not only predict on them, but augment them to create a better model produced excellent experience in both ends of the data analytics spectrum.
 
 
 
