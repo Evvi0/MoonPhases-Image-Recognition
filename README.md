@@ -40,7 +40,7 @@ This image recognition project predicts the phase of the moon based off of an im
 
 ### Final Thoughts
 
-- This project was a very fun experience for me, as it boasts the use data gathered on my own. Being able to take these images and not only predict on them, but augment them to create a better model produced excellent experience in both ends of the data analytics spectrum.
+- This project was a very fun experience for me, as it produces experience in the use of my own gathered data. Being able to take these images and not only predict on them, but augment them to create a better model produced excellent experience in both ends of the data analytics spectrum.
 
 
 
